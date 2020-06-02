@@ -1,2 +1,4 @@
 plugins:
   - jekyll-gist
+
+theme: jekyll-theme-midnight
