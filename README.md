@@ -1,7 +1,14 @@
 # GistHub
-A collection of my personal starter codes
+A collection of my personal starter codes and cheat sheets
 
 Hosted [here](http://rupesh.info/gisthub)
+
+## Contents
+* [Jupyter](#jupyter-starter-codes)
+* [Github](#github-starter-codes)
+* [Keras](#custom-keras-architecture)
+* [Command Prompt](#command-prompt-cheat-sheet)
+
 
 ### Jupyter Starter Codes
 <script src="https://gist.github.com/rs9899/be0a2828502b4e56a93e15ff61b73f0f.js"></script>
