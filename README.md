@@ -1,8 +1,3 @@
-# GistHub
-A collection of my personal starter codes and cheat sheets
-
-Hosted [here](http://rupesh.info/gisthub)
-
 ## Contents
 * [Jupyter](#jupyter-starter-codes)
 * [Github](#github-starter-codes)
