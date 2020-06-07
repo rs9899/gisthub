@@ -3,6 +3,7 @@
 * [Github](#github-starter-codes)
 * [Keras](#custom-keras-architecture)
 * [Command Prompt](#command-prompt-cheat-sheet)
+* [Gdrive download terminal](#gdrive-download-terminal)
 
 
 ### Jupyter Starter Codes
@@ -16,3 +17,6 @@
 
 ### Command prompt cheat sheet
 <script src="https://gist.github.com/rs9899/cecf5b1b5924014e9a2087a9bfd23e75.js"></script>
+
+### Gdrive download terminal
+<script src="https://gist.github.com/rs9899/e34eaf7acde3dda0b787d276e72601d2.js"></script>
